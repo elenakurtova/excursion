@@ -1,0 +1,48 @@
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color:black;
+}
+
+h1 {
+  font-weight: normal, bold;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300, bold;
+}
+
+h4  {
+  font-size: 21px;
+  color: gray;
+}
+
+p a {
+    color: Aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.link {
+
+}
+
+.copyright {
+  color: gray;
+  text-align: right;
+}
+
+img {
+  display: block;
+  margin: auto;
+
+}
+
+video {
+  display: block;
+  margin: 0 auto;
+}
